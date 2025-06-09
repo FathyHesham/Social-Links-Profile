@@ -23,7 +23,7 @@ A responsive social links profile page built with HTML and CSS, using the Inter 
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-links-profile-Q00bP3eQMa]
 - Live Site URL: [https://fathyhesham.github.io/Social-Links-Profile/]
 
 ## Setup
