@@ -48,5 +48,14 @@ A responsive social links profile page built with HTML and CSS, using the Inter 
 
 ## Screenshots
 
-![Desktop View](./screenshots/desktop-view.png)
-![Mobile View](./screenshots/mobile-view.png)
+### Desktop & Laptop View
+
+![Desktop & Laptop View](assets\images\desktop_laptop_screen.jpeg)
+
+### Tablet View
+
+![Tablet View](assets\images\tablet_screen.jpeg)
+
+### Mobile View
+
+![Mobile View](assets\images\mobile_screen.jpeg)
