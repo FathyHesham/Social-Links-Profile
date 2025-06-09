@@ -24,7 +24,7 @@ A responsive social links profile page built with HTML and CSS, using the Inter 
 ### Links
 
 - Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://fathyhesham.github.io/Social-Links-Profile/]
 
 ## Setup
 
